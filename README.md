@@ -48,3 +48,8 @@ The bootloader supports the following services:
 ## License
 This project is licensed under the MIT License.
 
+---
+
+## Contact
+
+For any inquiries, please contact the project maintainer at [linkedin](https://www.linkedin.com/in/alfred-nagy-882445224/).
