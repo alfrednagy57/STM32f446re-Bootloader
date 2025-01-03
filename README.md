@@ -31,7 +31,7 @@ The bootloader supports the following services:
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/stm32f446re-uds-bootloader.git
+   git clone https://github.com/alfrednagy57/STM32f446re-Bootloader.git
    ```
 2. Open the project in STM32CubeIDE.
 3. Flash the firmware to the STM32F446RE using a compatible programmer.
