@@ -40,6 +40,12 @@ The bootloader supports the following services:
 - Use a terminal or custom software to send supported command packets to the bootloader via UART.
 - Refer to the project documentation for details on packet structure and response formats.
 
+---
+## testing
+![PXL_20240712_200756368](https://github.com/alfrednagy57/user-attachments/blob/main/IMAGES/Screenshot%202025-01-03%20211914.png?raw=true)
+![PXL_20240712_200756369](https://github.com/alfrednagy57/user-attachments/blob/main/IMAGES/Screenshot%202025-01-03%20212042.png?raw=true)
+![PXL_20240712_200756370](https://github.com/alfrednagy57/user-attachments/blob/main/IMAGES/Screenshot%202025-01-03%20212125.png?raw=true)
+
 ## Future Enhancements
 - Add an encryption layer using AES-256 CBC for user authentication.
 - Integrate SHA-256 for advanced integrity checks.
@@ -49,7 +55,6 @@ The bootloader supports the following services:
 This project is licensed under the MIT License.
 
 ---
-
 ## Contact
 
 For any inquiries, please contact the project maintainer at [linkedin](https://www.linkedin.com/in/alfred-nagy-882445224/).
