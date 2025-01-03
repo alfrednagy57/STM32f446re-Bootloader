@@ -1,0 +1,15 @@
+../BL/Src/BL.c:39:13:voidSendAck	1
+../BL/Src/BL.c:11:9:u8_VerifyCrc	2
+../BL/Src/BL.c:45:6:voidSendNAck	1
+../BL/Src/BL.c:177:6:BL_voidHandlerGetVerCMD	1
+../BL/Src/BL.c:188:6:BL_voidHandlerGetHelpCMD	1
+../BL/Src/BL.c:211:6:BL_voidHandlerGetCIDCMD	1
+../BL/Src/BL.c:220:6:BL_voidHandlerGetRDPStateCMD	1
+../BL/Src/BL.c:228:6:BL_voidHandlerGoTOADDCMD	3
+../BL/Src/BL.c:251:6:BL_voidHandlerFlashEraseCMD	3
+../BL/Src/BL.c:268:6:BL_voidHandlerMemWriteCMD	6
+../BL/Src/BL.c:292:6:BL_voidHandlerEnRW_protectCMD	1
+../BL/Src/BL.c:306:6:BL_voidHandlerMemReadCMD	2
+../BL/Src/BL.c:324:6:BL_voidHandlerReadSecPROStateCMD	1
+../BL/Src/BL.c:340:6:BL_voidHandlerOTPReadCMD	2
+../BL/Src/BL.c:359:6:BL_voidHandlerDISRW_protectCMD	1

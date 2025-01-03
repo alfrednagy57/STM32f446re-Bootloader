@@ -1,0 +1,15 @@
+../BL/Src/BL.c:39:13:voidSendAck	16	static
+../BL/Src/BL.c:11:9:u8_VerifyCrc	32	static
+../BL/Src/BL.c:45:6:voidSendNAck	16	static
+../BL/Src/BL.c:177:6:BL_voidHandlerGetVerCMD	16	static
+../BL/Src/BL.c:188:6:BL_voidHandlerGetHelpCMD	24	static
+../BL/Src/BL.c:211:6:BL_voidHandlerGetCIDCMD	16	static
+../BL/Src/BL.c:220:6:BL_voidHandlerGetRDPStateCMD	16	static
+../BL/Src/BL.c:228:6:BL_voidHandlerGoTOADDCMD	16	static,ignoring_inline_asm
+../BL/Src/BL.c:251:6:BL_voidHandlerFlashEraseCMD	48	static
+../BL/Src/BL.c:268:6:BL_voidHandlerMemWriteCMD	32	static
+../BL/Src/BL.c:292:6:BL_voidHandlerEnRW_protectCMD	8	static
+../BL/Src/BL.c:306:6:BL_voidHandlerMemReadCMD	272	static
+../BL/Src/BL.c:324:6:BL_voidHandlerReadSecPROStateCMD	16	static
+../BL/Src/BL.c:340:6:BL_voidHandlerOTPReadCMD	16	static
+../BL/Src/BL.c:359:6:BL_voidHandlerDISRW_protectCMD	8	static
